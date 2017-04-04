@@ -1,0 +1,7 @@
+
+1. ### Use what fit the best, 用最適當的
+  * If you have no need for a REST API then obviously don't use one. But then that goes for everything. (If you don't need a database don't use one, writing to file system will be faster than a database. If you don't need a file system don't use one, writing to RAM is faster than disk. If you don't need RAM don't use it, writing to CPU cache is faster etc etc etc...)
+
+2. ### Adding a web service layer gives client more lightweight, Web服务能減輕用戶負擔 （Mobile）
+  * Using less CPU increases the battery life, 減少電池用量
+  * Using less bandwidth reduces monthly payments for users with metered plans，減少帶寬用量
