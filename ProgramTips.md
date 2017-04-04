@@ -207,5 +207,5 @@ Once a human tester finds a bug, it should be the last time a human tester finds
 ### Build Documentation In, Don’t Bolt It On
 Documentation created separately from code is less likely to be correct and up to date.
 
-Sign Your Work
+### Sign Your Work
 Craftsmen of an earlier age were proud to sign their work. You should be, too.
