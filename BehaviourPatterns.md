@@ -70,3 +70,5 @@
 一些模式引入总是被用作参数的对象。例如一个 Visitor 对象是一个多态的 Accept 操作的参数。
 
 一些模式定义一些可作为令牌到处传递的对象。例如 Command 代表一个请求，Memento 代表一个对象在某个时刻的内部状态。
+
+[Original Link](http://www.cnblogs.com/gaochundong/p/design_pattern_behavioral_patterns.html)
